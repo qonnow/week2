@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Collab Project</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="css.css">
+        <script src="https://cdn.tailwindcss.com"></script>
+    </head>
+    <body>
+        <div class="h-screen flex border-2 items-center justify-center">
+            <div class="flex gap-5 border-2 justify-around p-10">
+                    <!-- 67095474 -->
+                <div class=" rounded flex-col bg-blue-100 p-4">
+                    <div class="p-2 ">
+                        <img src="https://studentscms.spu.ac.th/stdempimg.cfm?empstdtype=STD&vdata=0ED1C8EED785F8A50529CEDFDA02CDD082E41B06D1FEDB" alt="profile">
+                    </div>
+                    <div class="">
+                        <h4 class="text-center p-1">67095474</h4>
+                        <h4 class="text-center">นายธีรภัทร เนียมสุวรรณ (allmusgus)</h4>
+                        <h4 class="text-center truncate">สุดหล่อที่เธอฝัน คงไม่ใช่ฉันที่เป็นอยู่</h4>
+                    </div>
+                </div>
+                    <!-- 67097950 -->
+                <div></div>
+                    <!-- 67107433 -->
+                <div class="border-2 rounded flex-col bg-orange-300">
+                    <div class="p-2">
+                        <img src="./67107433.jpg" alt="profile">
+                    </div>
+                    <div class="flex flex-col text-center gap-2 rounded truncate">
+                        <div>67107433</div>
+                    <div>นาย ณัชพล วงศาจัทร์</div>
+                    <div>(SaBo4K)</div>
+                    <div>ยิ่งอายุเยอะยิ่งอยากนอน</div>
+                </div>
+                    </div>
+                
+                    <!-- 67115588 -->
+                <div class="border-2 rounded flex-col bg-blue-300">
+                    <div class="p-2">
+                        <img src="./67115588.png" alt="profile">
+                    </div>
+                    <div class="flex flex-col text-center gap-2 rounded truncate">
+                        <div>67115588</div>
+                        <div>นายธนกฤต เพ็ชรกำจัด</div>
+                        <div>(qonnow)</div>
+                        <div>คนจริงไม่พูดเยอะ…คนเจ็บก็ไม่พูดเลย</div>
+                    </div>
+                </div>
+                    <!-- 67118456 -->
+                <div class="border-2 rounded flex-col bg-purple-300">
+                    <div class="p-2">
+                        <img src="https://studentscms.spu.ac.th/stdempimg.cfm?empstdtype=STD&vdata=0ED5CDEFDF8AF8A50529CFD7D702CFD282E71908D4FFDCD4" alt="profile">
+                    </div>
+                    <div class="flex flex-col text-center gap-2 rounded truncate">
+                        <div>67118456</div>
+                        <div>นายเขตโสภณ อินอุตออน</div>
+                        <div>(hazeco)</div>
+                        <div>ฟันพี่ไม่ได้เคลือบทองแต่ฟันพี่เหลือง</div>
+                    </div>
+                </div>
+                </div>
+            </div>
+        </div>
+            
+    </body>
+</html>
